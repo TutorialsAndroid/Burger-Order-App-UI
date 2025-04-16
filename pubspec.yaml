@@ -1,0 +1,32 @@
+name: burger
+description: "The Animated Burger Glows With An Aesthetic Charm"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  lottie: ^3.3.1
+  cupertino_icons: ^1.0.8
+  liquid_swipe: ^3.1.0
+  shimmer: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/burger.png
+    - assets/burger2.png
+    - assets/burger3.png
+    - assets/burger4.png
+
+

@@ -1,4 +1,3 @@
-```markdown
 # 🍔 BurgerSwipe
 
 A visually delicious burger-themed onboarding experience using Flutter and the `liquid_swipe` package. Swipe through a series of mouth-watering burger screens with fluid animations, vibrant colors, and a delightful UI.

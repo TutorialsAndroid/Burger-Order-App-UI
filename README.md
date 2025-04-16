@@ -17,14 +17,6 @@ A visually delicious burger-themed onboarding experience using Flutter and the `
 
 ---
 
-## 📱 Screenshots
-
-| Classic Cheeseburger | Double Patty Delight | Veggie Supreme | Spicy Chicken |
-|----------------------|----------------------|----------------|---------------|
-| ![Screen 1](assets/burger.png) | ![Screen 2](assets/burger2.png) | ![Screen 3](assets/burger3.png) | ![Screen 4](assets/burger4.png) |
-
----
-
 ## 🚀 Getting Started
 
 To run this project locally, follow these simple steps:
@@ -80,9 +72,8 @@ MIT License – do whatever you want, just give credit where it's due. 🍟
 
 Like this app? Got suggestions? Reach out!
 
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.dev](https://yourwebsite.dev)
+- Twitter: [@Akshay](https://x.com/a_masram444)
+- LinkedIn: [Tushar](https://www.linkedin.com/in/tusharm444/)
 
 ---
 

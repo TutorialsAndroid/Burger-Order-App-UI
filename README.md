@@ -2,7 +2,7 @@
 
 A visually delicious burger-themed onboarding experience using Flutter and the `liquid_swipe` package. Swipe through a series of mouth-watering burger screens with fluid animations, vibrant colors, and a delightful UI.
 
-![BurgerSwipe Demo](https://github.com/TutorialsAndroid/Burger-Order-App-UI/blob/main/screenshots/untitled.gif?raw=true) <!-- You can replace this with an actual GIF of your app -->
+<img src="https://github.com/TutorialsAndroid/Burger-Order-App-UI/blob/main/screenshots/untitled.gif?raw=true" width="600" height="400" alt="BurgerSwipe Demo">
 
 ---
 

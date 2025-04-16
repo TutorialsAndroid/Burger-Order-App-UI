@@ -80,7 +80,3 @@ Like this app? Got suggestions? Reach out!
 **Swipe. Drool. Order. Repeat.**  
 *Made with ❤️ in Flutter*
 ```
-
----
-
-Let me know if you want a real GIF for the app demo or want this tailored with your actual GitHub username, portfolio link, or social handles!

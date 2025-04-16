@@ -23,8 +23,8 @@ To run this project locally, follow these simple steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/BurgerSwipe.git
-cd BurgerSwipe
+git clone https://github.com/TutorialsAndroid/Burger-Order-App-UI.git
+cd Burger-Order-App-UI
 
 # Install dependencies
 flutter pub get

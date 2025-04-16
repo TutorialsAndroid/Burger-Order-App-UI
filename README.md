@@ -79,4 +79,3 @@ Like this app? Got suggestions? Reach out!
 
 **Swipe. Drool. Order. Repeat.**  
 *Made with ❤️ in Flutter*
-```
